@@ -6,7 +6,7 @@ Google BERT official page: https://github.com/google-research/bert
 Keras BERT: https://github.com/CyberZHG/keras-bert
 
 I. Run BERT via Google Colab (the simplest way):
-Open URL: http://colab.research.google.com/github/blade1780/bert/blob/master/BERT.ipynb
+Open URL: http://colab.research.google.com/github.com/artem-manakov-arq/BERT/blob/master/
 Menu Runtime -> Run All (or press Ctrl+F9)
 Agree to reset all runtimes if needed
 Wait for downloading model and all imports
