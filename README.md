@@ -5,7 +5,7 @@ Google BERT official page: https://github.com/google-research/bert
 
 Keras BERT: https://github.com/CyberZHG/keras-bert
 
-I. Run BERT via Google Colab (the simplest way):
+# Run BERT via Google Colab (the simplest way):
 
   Open URL: http://colab.research.google.com/github/artem-manakov-arq/BERT/blob/master/BERT.Regime_2.ipynb
 
